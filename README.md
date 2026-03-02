@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Guilherme and my nickname is "Sartz"!
 
-<!--
-**Sartz7/Sartz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contatos:
+<div><a 
+href="https://www.linkedin.com/in/guilherme-sartori-676193263/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-Here are some ideas to get you started:
+## Estou Aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
+
+          
+
